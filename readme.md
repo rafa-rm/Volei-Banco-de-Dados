@@ -6,4 +6,4 @@ Além disso, foram criados formulários para realizar as operações de Alterar,
 
 Para mais detalhes das regras de negócio da aplicação, o arquivo voleiUML apresenta uma explicação completa das classes e seus relacionamentos.
 
-Os arquivos "FormularioAlteracao.png", "FormularioInsercao.png" e "FormularioRemocao.png" apresentam os formulários desenvolvidos
+Os arquivos "FormularioAlteracao.png", "FormularioInsercao.png" e "FormularioRemocao.png" apresentam os formulários desenvolvidos nesse projeto.
